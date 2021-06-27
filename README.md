@@ -1,0 +1,2 @@
+# Bacterial_Colony_Segmentation_With_Classical_Image_Processing
+Bacterial Colony Segmentation With Classical Image Processing Techniques
